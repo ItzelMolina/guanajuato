@@ -1,4 +1,7 @@
-# Proyecto Ganador de la Vertical de Cultura en el Hackaton 2018 de Talent Land Guadalajara
+# Descubre Guanajuato
+
+## Desarrollado para [Laboratoria](http://www.laboratoria.la/)
+
 ## Equipo BlackCornios
 - Ux-Designer: Jocelyn Esquivel e Itzel Molina
 - Front-end development: Ivonne Reyes, Elizabeth Torres y Sonia Gama.
